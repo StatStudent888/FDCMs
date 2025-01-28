@@ -1,0 +1,2 @@
+#The document Simulation includes code to run FDCMs, Modified FDCMs, Static, Kernel and Modified Kernel and evaluate MFL, MSL, MTPR, MFPR in simulation. 
+#The document Real_data includes code to run FDCMs, Modified FDCMs, Static, Kernel and Modified Kernel and evaluate AVR, STD and IR, as well as plot the figure in Section 5.1 and Appendix F in real data. For more detailed information, please refer to readme.txt in this document.
